@@ -22,7 +22,7 @@
 }
 
 .logo {
-  background-image: url("/amazon-clone/assets/amazon_logo.png");
+  background-image: url("/assets/amazon_logo.png");
   background-size: cover;
   height: 65px;
   width: 100%;
@@ -154,7 +154,7 @@ span {
 /* hero-section */
 
 .hero-section {
-  background-image: url("/amazon-clone/assets/hero_image.jpg");
+  background-image: url("/assets/hero_image.jpg");
   height: 380px;
   background-size: cover;
   display: flex;
@@ -319,7 +319,7 @@ ul a {
 }
 
 .logo-footer {
-  background-image: url("/amazon-clone/assets/amazon_logo_footer.png");
+  background-image: url("/assets/amazon_logo_footer.png");
   height: 40px;
   width: 80px;
   background-size: cover;
